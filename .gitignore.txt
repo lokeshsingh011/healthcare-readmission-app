@@ -1,0 +1,8 @@
+# Ignore data files larger than 100MB or sensitive
+data/processed/diabetes_preprocessed.csv
+*.ipynb_checkpoints
+__pycache__/
+*.pyc
+*.pkl
+.DS_Store
+.env
