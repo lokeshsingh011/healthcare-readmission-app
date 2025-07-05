@@ -6,9 +6,9 @@ import shap
 import matplotlib.pyplot as plt
 
 # Load the model, scaler, and SHAP background
-model = joblib.load('../models/diabetes_model.pkl')
-scaler = joblib.load('../models/scaler.pkl')
-background = pd.read_csv('../data/processed/shap_background.csv')
+model = joblib.load('models/diabetes_model.pkl')
+scaler = joblib.load('models/scaler.pkl')
+background = pd.read_csv('data/processed/shap_background.csv')
 
 # Load feature template (with all one-hot columns used during training)
 template = pd.read_csv('../data/processed/template_input.csv')
