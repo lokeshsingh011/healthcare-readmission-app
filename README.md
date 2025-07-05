@@ -7,8 +7,7 @@ A Streamlit-based machine learning web app that predicts the risk of hospital re
 
 ## 🚀 Live Demo
 
-🔗 [Click here to try the app](https://<your-streamlit-app-url>)  
-_(Replace with your actual Streamlit link after deployment)_
+🔗 [Click here to try the app](https://healthcare-readmission-app-gvxzcx9gkqy5q9wuhcfk6n.streamlit.app/)  
 
 ---
 
